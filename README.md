@@ -25,3 +25,8 @@ A user authentication system is also implemented in a basic form to assign usern
 The entire project follows a modular code structure. The server.js file initializes the Express server, configures the Socket.IO logic, and handles MongoDB connection and message saving. The frontend is kept inside a public/ folder that contains index.html for the chat interface, style.css for design and theming, and script.js for handling socket events and DOM interactions. A separate views/ folder contains a login.html file for the user login system, ensuring a clear separation of concerns.
 
 This application serves as a practical implementation of full-stack development principles. It demonstrates real-time client-server interaction, efficient use of web sockets, database integration for persistence, and interactive UI design. This project is ideal for learners and developers interested in real-world use cases of Socket.IO, Express.js, and MongoDB. Future enhancements may include message reactions, media/file sharing, notifications, and real-time typing indicators.
+
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/166e7871-bbe0-4f6b-8ed2-9d8bdfe4b1ac)
